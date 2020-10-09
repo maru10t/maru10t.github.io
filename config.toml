@@ -4,5 +4,6 @@ title = "Takafumi Maruishi"
 contentDir="content"
 disableKinds = ["RSS", "sitemap"]
 theme = "hugo-xmin"
+publishDir = "docs"
 [taxonomies]
 tag = "tags"
