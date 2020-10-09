@@ -1,0 +1,8 @@
+baseURL = "http://maru10t.github.io/"
+languageCode = "ja"
+title = "Takafumi Maruishi"
+contentDir="content"
+disableKinds = ["RSS", "sitemap"]
+theme = "hugo-xmin"
+[taxonomies]
+tag = "tags"
