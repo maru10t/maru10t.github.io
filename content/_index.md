@@ -11,6 +11,7 @@ date: 2020-10-10T04:04:49+09:00
 * Takafumi Maruishi
 * Ph.D. student at Graduate School of Sciences, Kyushu University, Japan, under the supervision of Prof. Atsushi Toramaru
 * [Group of Petrology and Volcanology](http://ganseki3.geo.kyushu-u.ac.jp/index.html)
+* E-Mail: maruishi.takafumi.576(at)s.kyushu-u.ac.jp
 
 ## Research Interests
 * the fluid dynamics of bubble coalescence in high viscosity liquids
