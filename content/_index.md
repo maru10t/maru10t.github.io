@@ -5,7 +5,7 @@ date: 2020-10-10T04:04:49+09:00
 
 # Takafumi Maruishi (丸石崇史)
 
-![myphoto](/icon.jpg)
+<!-- ![myphoto](/icon.jpg) -->
 
 ## Profile
 * Takafumi Maruishi
