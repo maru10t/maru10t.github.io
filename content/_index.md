@@ -26,3 +26,4 @@ date: 2020-10-10T04:04:49+09:00
 
 ## Publications
 * Under construction
+* **Takafumi Maruishi** and Atsushi Toramaru, Effect of bubble deformation on the coalescence of two ascending bubbles in a viscous liquid, Physics of Fluids 34, 043302 (2022) [https://doi.org/10.1063/5.0082506](https://doi.org/10.1063/5.0082506)
