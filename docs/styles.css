@@ -67,6 +67,7 @@ h1 [lang="ja"] { color: var(--link); font-weight: 500; }
 section { margin-top: 3.2rem; }
 h2 { margin: 0 0 1.2rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--link); color: var(--brown); font-size: 1.35rem; line-height: 1.35; }
 h3 { margin: 2rem 0 0.85rem; color: var(--brown); font-size: 1.05rem; line-height: 1.4; }
+.publication-role { margin: 1.25rem 0 0.8rem; color: var(--link); font-size: 0.92rem; line-height: 1.4; letter-spacing: 0.025em; }
 .profile {
   margin-top: 0;
 }
